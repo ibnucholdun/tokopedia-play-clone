@@ -5,13 +5,13 @@
 - Clone the repository:
 
 ```
-git clone https://github.com/ibnucholdun/final-project-GG3.0.git
+git clone https://github.com/ibnucholdun/tokopedia-play-clone.git
 ```
 
 - Switch to the repo folder:
 
 ```
-cd final-project-GG3.0
+cd tokopedia-play-clone
 ```
 
 - Install all the dependencies using npm or you can using yarn:
